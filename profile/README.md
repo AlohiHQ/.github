@@ -4,7 +4,7 @@
 
 Alohi is a tech company dedicated to improving workflow through innovative and secure solutions. Our products include Sign.Plus, an electronic signature tool; Fax.Plus, an online fax service; and Scan.Plus, an AI-powered mobile scanner.
 
-Alohi has over 3 million users worldwide. We serve a variety of industries including healthcare, IT, financial services, legal, and real estate. Our customers value our seamless integrations, reliability, and intuitive design. They also appreciate our commitment to security, reinforced by compliance with international standards and Swiss data protection laws.
+Alohi has over 4 million users worldwide. We serve a variety of industries including healthcare, IT, financial services, legal, and real estate. Our customers value our seamless integrations, reliability, and intuitive design. They also appreciate our commitment to security, reinforced by compliance with international standards and Swiss data protection laws.
 
 We offer three products, while operating under strict security, compliance and data privacy standards such as but not limited to SOC 2 Type 2, ISO 27001, HIPAA:
 
